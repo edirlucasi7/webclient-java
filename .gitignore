@@ -1,0 +1,22 @@
+/.metadata/
+/.recommenders/
+/back-end/Servers
+/Servers
+/.idea/
+*.iml
+
+
+target/
+.mvn/
+src/main/resources/public/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+mvnw
+mvnw.cmd
